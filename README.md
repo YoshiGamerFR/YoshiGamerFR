@@ -1,5 +1,5 @@
-Wassup!
-I'm YoshiGamerFR known by this name on YouTube, Game Jolt and Twitch.
+Wassup! <br>
+I'm YoshiGamerFR known by this name on YouTube, Game Jolt and Twitch. <br>
 I'm currently trying to learn some programming languages, beside using TurboWarp, still in high school!
 
 <!---
